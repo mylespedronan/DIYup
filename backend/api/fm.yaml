@@ -1,5 +1,0 @@
-# Information for Flask-Mail
-mail_server: 'smtp.gmail.com'
-mail_username: 'diyupbot@gmail.com'
-mail_password: 'csc648team206'
-
