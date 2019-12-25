@@ -1,5 +1,5 @@
 Flask_MySQLdb==0.2.0
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 Flask==0.12.2
 PyJWT==1.7.1
 PyYAML==5.1.2
